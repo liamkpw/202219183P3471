@@ -1,7 +1,3 @@
-# 202219183P3471
-P3471
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,11 +7,23 @@ P3471
 
 <body>
 
- <h1 style="background-color: green; color: white; padding: 15px;">
+ <h1 style="
+        background-color: #2e8b57;
+        color: white;
+        padding: 20px;
+        text-align: center;
+        font-family: Arial, sans-serif;
+    ">
         Digital tools webpage
     </h1>
 
- <p>This is my web page.</p>
+<p style="
+        font-family: Arial, sans-serif;
+        font-size: 16px;
+        text-align: center;
+    ">
+        This is my web page.
+    </p>
 
 </body>
 </html>

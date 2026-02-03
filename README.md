@@ -11,11 +11,11 @@ P3471
 
 <body>
 
-    <h1 style="background-color: green; color: white; padding: 15px;">
+ <h1 style="background-color: green; color: white; padding: 15px;">
         Digital tools webpage
     </h1>
 
-    <p>This is my web page.</p>
+ <p>This is my web page.</p>
 
 </body>
 </html>
